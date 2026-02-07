@@ -1,19 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Danila Bulynko
 
-Junior Data Engineer
-Начинающий Data Engineer с сильной базой в Python и SQL и интересом к построению data pipelines и ETL-процессов. Работал над учебными и практическими проектами, включая проектирование схем данных, обработку и аналитический слой. Стремлюсь получить первую коммерческую позицию и расти в команде опытных инженеров.
-Tech stack:
-Python, SQL, PostgreSQL, Pandas, NumPy, ETL, Docker, Git/GitHub, JSON, OOP
-Projects:
-Telegram Event Analytics Pipeline — ingestion данных через Telegram-бота, PostgreSQL, batch ETL, incremental processing, SQL analytics (window functions)
-Education:
-Applied Mathematics & Computer Science, Belarusian State University
-Languages:
-English (B1) | Russian & Belarusian (native) | French (A2)
-📍 Minsk, Belarus
-📧 Email: bulynkodanila@gmail.com
-🔗 GitHub: https://github.com/mestnyiGenyi
-💬 Telegram: @danilabulynko
+### Junior Data Engineer | Python & SQL
+
+Aspiring **Data Engineer** with a strong foundation in **Python, SQL, and data pipelines**.  
+Experienced in building educational and practical projects focused on **ETL processes, data modeling, and analytics**.  
+Actively looking for my **first commercial role** and eager to grow within a professional team.
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL  
+- **Databases:** PostgreSQL  
+- **Data & ETL:** Pandas, NumPy, ETL pipelines  
+- **Tools:** Git, GitHub, Docker, JSON  
+- **Concepts:** OOP, data modeling, batch processing  
+
+---
+
+## 📌 Projects
+**Telegram Event Analytics Pipeline**  
+- Built a data pipeline for collecting and analyzing user events from Telegram  
+- Implemented ingestion via Telegram bot with raw data storage in PostgreSQL  
+- Designed layered data architecture (raw / aggregated / analytics)  
+- Developed batch and incremental ETL pipelines  
+- Performed analytical processing using SQL aggregations and window functions  
+
+---
+
+## 🎓 Education
+**Belarusian State University**  
+Applied Mathematics and Computer Science  
+
+---
+
+## 🌍 Languages
+- English — B1  
+- French — A2  
+- Russian — Native  
+- Belarusian — Native  
+
+---
+
+## 📫 Contact Me
+- **Email:** bulynkodanila@gmail.com  
+- **Telegram:** [@danilabulynko](https://t.me/danilabulynko)  
+- **GitHub:** [mestnyiGenyi](https://github.com/mestnyiGenyi)  
+- **Location:** Minsk, Belarus
 
 <!--
 **mestnyiGenyi/mestnyiGenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
